@@ -1,0 +1,16 @@
+<k!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>document</title>
+    <link src="styles.css"></link>
+   </head>
+<body>
+  <div id="navBar">
+    <div><h1>portfolio</h1></div>
+      <div id="selection">
+        <p class="para">projects</p>
+        <p class="para">skills</p>
+        <p class="para">contacts</p>
+    </div>
+  </div>
+  </body>
